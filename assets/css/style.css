@@ -1,8 +1,12 @@
 body{
 	font-family: 'Georgia', Times, Times New Roman, serif,'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-	
+		background-image:url("../images/bg.png");
 
 }	
+.navbar-brand-custom{
+	background-color:  #4aaaa5;
+	color: white;
+	} 
 /*
 header{
 	position: relative;
@@ -35,10 +39,10 @@ header{
     font-size: 18px;
 }*/
 
-.container{
+/*.container{
 	background-image:url("../images/bg.png");
 
-}
+}*/
 /*.box{
 	width: 100%;
 	
